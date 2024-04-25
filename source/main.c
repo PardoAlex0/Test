@@ -1,7 +1,3 @@
-/**
- * @file    OneLed.c
- * @brief   Application entry point.
- */
 /**Standard input/output to debug console*/
 #include <stdio.h>
 /**Standard integer definition provided by the compiler*/
